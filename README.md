@@ -5,11 +5,6 @@ Esta aplicación de escritorio desarrollada en Python permite acortar enlaces ut
 
 ---
 
-## 📸 Captura de Pantalla
-
-> *(Agrega aquí una imagen de tu aplicación si deseas)*
-
----
 
 ## 🚀 Características
 
