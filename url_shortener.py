@@ -7,8 +7,8 @@ windo = Tk()
 windo.configure(background="black")
 windo.title("URL SHORTENER ")
 windo.configure(relief="flat")
-windo.resizable(False,False)
-icon = PhotoImage(file="img\\url.png")
+windo.resizable(True,False)
+icon = PhotoImage(file=r"img\url.png")
 windo.iconphoto(True,icon)
 
 
