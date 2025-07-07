@@ -8,8 +8,6 @@ windo.configure(background="black")
 windo.title("URL SHORTENER ")
 windo.configure(relief="flat")
 windo.resizable(True,False)
-icon = PhotoImage(file=r"img\icon.png")
-windo.iconphoto(True,icon)
 
 
 
