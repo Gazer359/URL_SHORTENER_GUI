@@ -5,6 +5,13 @@ Esta aplicación de escritorio desarrollada en Python permite acortar enlaces ut
 
 ---
 
+# 📷 Imagen de su uso
+
+<img width="683" height="529" alt="Image" src="https://github.com/user-attachments/assets/db1681df-a075-4c5c-98c8-596d60ad5d09" />
+
+
+---
+
 
 ## 🚀 Características
 
